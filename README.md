@@ -32,7 +32,7 @@ Video(coming soon)
 -
 <a href="http://www.starke-consult.de/BA_Paul/Demo/Demo_Mac.zip">Mac Demo</a>
 -
-<a href="/Unity/Assets/Demo">ReadMe</a>
+<a href="/Unity/Assets/Demo/ReadMe.txt">ReadMe</a>
 -
 </p>
 <img src ="Media/Styles.png" width="100%">
