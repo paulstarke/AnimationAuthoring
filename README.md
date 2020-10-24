@@ -1,4 +1,5 @@
-<h3>Animation Authoring for Neural Quadruped Controller </h3>
+Animation Authoring for Neural Quadruped Controller
+============
 <sub>
 <a href="https://github.com/pauzii">Paul Starke</a><sup>+</sup>,
 <a href="https://www.linkedin.com/in/sebastian-starke-b281a6148/">Sebastian Starke</a>,
