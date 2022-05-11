@@ -22,8 +22,6 @@ Additionally, this work proposes a new dataset which aims to enhance synthetic m
 -
 <a href="https://www.youtube.com/watch?v=Z3ZAjlxWK1U">Video</a>
 -
-<a href="Media/Thesis.pdf">Thesis</a>
--
 <a href="/TensorFlow/MANN/data/Link.txt">Dataset</a>
 -
 <a href="http://www.starke-consult.de/BA_Paul/Demo/Demo_Windows.zip">Windows Demo</a>
