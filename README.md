@@ -1,7 +1,7 @@
 Animation Authoring for Neural Quadruped Controller
-============
+========
 <sub>
-<a href="https://github.com/pauzii">Paul Starke</a><sup>+</sup>,
+<a href="https://www.linkedin.com/in/paul-starke-0787211b4/">Paul Starke</a>,
 <a href="https://www.linkedin.com/in/sebastian-starke-b281a6148/">Sebastian Starke</a>,
 <a href="https://www.linkedin.com/in/taku-komura-571b32b/">Taku Komura</a>,
 Gerik Scheuermann,
